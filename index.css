@@ -1,0 +1,16 @@
+:root {
+  --text-primary: #101d42;
+  --text-dark: #2b2922;
+  --bg-primary: #141e4c;
+  }
+
+nav {
+  position: fixed;
+  top: 0;
+
+  width: 100%;
+
+  background-color: var(--bg-primary);
+
+  z-index: 2;
+}
